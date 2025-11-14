@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I'm Abdulrahman Ashraf 👋<br>I'm a Software Developer and Cybersecurity Enthusiast who loves combining clean development with strong security practices to build efficient and secure applications.<br><br>💻 I work with several programming languages including C++, Python, Java, and web technologies like HTML, CSS, and JavaScript. I enjoy developing practical tools, writing optimized code, and solving complex problems through logical thinking.<br><br>🛡️ On the cybersecurity side, I'm passionate about penetration testing, web application security, network security, and Active Directory attack/defense techniques. I explore vulnerabilities in web systems, automate security testing with Python, and continuously work on improving my red-team and blue-team skills.<br><br>🎓 I’ve completed multiple cybersecurity certifications and learning tracks including CEH v12, eJPT, Security+, HCIA Security, Network+, and Ethical Hacking specializations. I’m always learning, experimenting, and pushing myself to understand modern attack techniques and how to defend against them.<br><br>🚀 My current focus is mastering advanced web exploitation concepts (XSS, CORS, CSP, logic flaws), building small security utilities, improving my backend development with Python, and enhancing my C++ and Java programming abilities.<br><br>⚙️ Tools and systems I work with include Linux (Kali/Ubuntu), Burp Suite, Nmap, Wireshark, Metasploit, Git/GitHub, and various scripting environments.<br><br>✨ My goal is to build software with the mindset of both a developer and an ethical hacker—creating secure, scalable, and reliable applications while understanding how attackers think and operate.<br><br>📈 I’m always improving, always experimenting, and always learning something new.<br><br>
 
-<!--
-**Abdulrahman-Ashraf161/Abdulrahman-Ashraf161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/abdulrahman.ashraf.927830) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdulrahman-ashraf-0xvalorian/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@a0xval0r1an) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdo.ashraf.mo7@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abdulrahman-Ashraf161&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Abdulrahman-Ashraf161&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Ashraf161&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abdulrahman-Ashraf161&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Abdulrahman-Ashraf161&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
